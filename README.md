@@ -20,7 +20,7 @@
     <a href="https://open.spotify.com/user/vqjljxitzwrsv7brzfna00wny?si=HiYNGIxkReeP3r5L28xUZw">
         <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=fafafa" />
     </a>
-    <a href="https://www.byannurcahyo.my.id">
+    <a href="https://byannurcahyo.my.id">
         <img src="https://img.shields.io/badge/Website-18181b?style=for-the-badge&logo=react&logoColor=fafafa" />
     </a>
 </div>
